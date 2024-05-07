@@ -28,5 +28,5 @@ class segitiga
 };
 int main(){
     PersegiPanjang pp;
-    
+    segitiga sg;
 }
