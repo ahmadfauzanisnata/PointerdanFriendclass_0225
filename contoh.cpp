@@ -2,4 +2,7 @@
 using namespace std;
 
 class PersegiPanjang
-
+{
+    public:
+   
+}
